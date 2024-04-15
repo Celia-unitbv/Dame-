@@ -1,0 +1,159 @@
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.Cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Z-Work\Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csprojResolveAssemblyReference.cache
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csprojAssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame_\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csprojAssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\_MVVM\MVVM-DemoGame__\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab6\MVVM\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csprojAssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2020-2021\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.AssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.SuggestedBindingRedirects.cache
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2022-2023\MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.AssemblyReference.cache
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.SuggestedBindingRedirects.cache
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+D:\_Lucru\Facultate\AniStudiu\2023-2024\Sem II\MAP+MVP\Lab7\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe.config
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.exe
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\bin\Debug\MVVMPairs.pdb
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.AssemblyReference.cache
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.g.cs
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\App.g.cs
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.cache
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs_MarkupCompile.lref
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\Views\GameWindow.baml
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.g.resources
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.Properties.Resources.resources
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.GenerateResource.cache
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.csproj.CoreCompileInputs.cache
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.exe
+C:\Users\Celia\Downloads\MVVM-DemoGame\MVVM-DemoGame\MVVMPairs\MVVMPairs\obj\Debug\MVVMPairs.pdb

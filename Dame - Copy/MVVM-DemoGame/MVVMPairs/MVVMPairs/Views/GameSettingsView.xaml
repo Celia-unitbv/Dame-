@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="MVVMPairs.Views.GameSettingsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMPairs.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="742.229" d:DesignWidth="1083.957">
+    <Grid Margin="0,0,10,225">
+        <Grid Margin="0,0,320,225">
+            <StackPanel HorizontalAlignment="Left">
+                <Button Content="New Game" Command="{Binding NewGameCommand}" Height="22" Width="111"/>
+                <Button Content="Save" Command="{Binding SaveCommand}" Height="22" Width="111"/>
+                <Button Content="Open" Command="{Binding OpenCommand}" Height="22" Width="111"/>
+                <Button Content="Statistics" Command="{Binding StatisticsCommand}" Height="22" Width="111"/>
+                <CheckBox Content="Allow Multiple Jump" IsChecked="{Binding AllowMultipleJump}"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>
